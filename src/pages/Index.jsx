@@ -12,7 +12,7 @@ const Index = () => {
           Unique. Bold. Beautiful.
         </Text>
         <Box align="center">
-          <Image borderRadius="full" boxSize="150px" src="https://images.unsplash.com/photo-1600427150683-348f588e815c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxoYW5kbWFkZSUyMGpld2VscnklMjBhcnRpc3QlMjBwb3J0cmFpdHxlbnwwfHx8fDE3MDk2MTMxODh8MA&ixlib=rb-4.0.3&q=80&w=1080" alt="Jewelry Artist" />
+          <Image src="https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80" alt="Blue Ocean Water" width="100%" />
         </Box>
         <SimpleGrid columns={{ base: 1, md: 3 }} spacing={10}>
           <ProductCard imageQuery="handmade necklace" title="Necklaces" description="Stunning necklaces that make a statement." />
