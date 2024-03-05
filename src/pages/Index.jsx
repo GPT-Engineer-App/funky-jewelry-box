@@ -5,8 +5,8 @@ const Index = () => {
   return (
     <Container maxW="container.xl" p={4}>
       <Stack spacing={5}>
-        <Heading as="h1" size="2xl" textAlign="center">
-          Funky Handmade Jewelry
+        <Heading as="h1" size="2xl" textAlign="center" style={{ fontFamily: "'UnifrakturMaguntia', cursive" }}>
+          Caro&Co
         </Heading>
         <Text fontSize="xl" textAlign="center">
           Unique. Bold. Beautiful.
