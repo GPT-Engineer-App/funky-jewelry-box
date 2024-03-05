@@ -8,7 +8,9 @@ const Index = () => {
         <Heading as="h1" size="2xl" textAlign="center" style={{ fontFamily: "'UnifrakturMaguntia', cursive" }}>
           Caro&Co
         </Heading>
-
+        <Text fontSize="xl" textAlign="center">
+          Unique. Bold. Beautiful.
+        </Text>
         <Box align="center">
           <Image src="https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80" alt="Blue Ocean Water" width="100%" height="400px" objectFit="cover" />
         </Box>
